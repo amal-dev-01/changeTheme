@@ -1,2 +1,2 @@
 #output
-change-dark.netlify.app
+https://change-dark.netlify.app/
