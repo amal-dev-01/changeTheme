@@ -1,0 +1,10 @@
+.btn{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    width: 15vh;
+    height: 6vh;
+    padding: 0%; 
+}
