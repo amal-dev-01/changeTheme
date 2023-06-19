@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import { useState } from 'react';
 import './component/Btn.css'
@@ -23,7 +23,7 @@ const color1={
 function App() {
   const [color,setColor]=useState(color1)
   const Change=()=>{
-    if(color==color1){
+    if(color===color1){
     setColor(color2)
   }
   else{
